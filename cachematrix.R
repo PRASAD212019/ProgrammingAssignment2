@@ -1,6 +1,5 @@
 ## Creates a special "matrix" object that can cache its inverse.
 ##
-##
 ## General Description:
 ##
 ## makeCacheMatrix maps an invertible matrix 'A' to a 
